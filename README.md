@@ -11,6 +11,8 @@
 ## Installation
 
 ### For Chrome and Edge
-1. Clone this repository or download the ZIP file.
-   ```bash
-   git clone https://github.com/yourusername/PauseYouTubeOnTabSwitch.git
+1. Open your browser and navigate to `chrome://extensions/` or `edge://extensions/`.
+2. Turn on **Developer mode** at the top right of the page.
+3. Click the **Load unpacked** button at the top left.
+4. Select the folder containing the extension files (where `manifest.json` is located).
+5. Open YouTube and play a video; the video will automatically pause when you switch to another tab or window.
